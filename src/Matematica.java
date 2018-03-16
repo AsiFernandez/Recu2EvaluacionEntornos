@@ -18,6 +18,7 @@ public class Matematica {
 		int resultado;
 		resultado = a + b;
 		return resultado;
+		
 	}
 	
 	
@@ -48,6 +49,7 @@ public class Matematica {
 	public static  ArrayList<Integer> sumas(){
 		
 		return sumas;
+		
 	}
 	
 	
